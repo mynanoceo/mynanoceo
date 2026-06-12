@@ -1,6 +1,6 @@
 - Hi, I’m Vasili @mynanoceo
-- I’m currently learning to code in python, and working on several projects 
-- I’m always open to collaborating on projects that are a good fit with my skill sets, so drop a note if there's anything you'd like to discuss
+- I’m currently working on an ecommerce project stay tuned!
+- I’m always open to collaborating on projects that are a good fit, so drop a note if there's anything you'd like to discuss
 - How to reach me mynanoceo@gmail.com
 
 <!---
